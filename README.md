@@ -6,10 +6,11 @@ Designed for OpenWrt 25.x using APK package management, UCI firewall integration
 IPv4/IPv6 support, DDNS automation and custom DNS configuration.
 
 🌐 Website  
-https://Elsaadouni.com
+https://www.elsaadouni.com
+https://www.yas.sh
 
 📦 Repository  
-https://github.com/elsaadouni/wireguard_openwrt-
+https://github.com/elsaadouni/wireguard_openwrt
 
 
 ## ✨ Features
